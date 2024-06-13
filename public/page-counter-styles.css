@@ -1,0 +1,23 @@
+/* Style for the counter section */
+.page-counter-section {
+    background-color: #f8f8f8;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    display: flex;
+    align-items: center;
+}
+
+/* Style for the counter text */
+.page-counter-text {
+    font-size: 16px;
+    color: #333;
+    margin-right: 10px;
+}
+
+/* Style for the counter number */
+.page-counter-number {
+    font-size: 24px;
+    color: #007bff;
+    font-weight: bold;
+}
